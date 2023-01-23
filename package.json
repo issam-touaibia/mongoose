@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon server.js"
   },
-  "author": "barhoumi hachem",
+  "author": "issam touabia",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
